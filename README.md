@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="<img width="1874" height="1212" alt="logo-copy-RLa1am44OaUalFji" src="https://github.com/user-attachments/assets/ae783624-3136-4b18-a453-0a103f4d5f72" />
-" alt="Logo do Projeto" width="200">
+<img width="1874" height="1212" alt="logo-copy-RLa1am44OaUalFji" src="https://github.com/user-attachments/assets/c43e10c0-ef8b-4866-a0df-c2676d6cb8cd" />
   <br>
   CopyArt
   <br>
