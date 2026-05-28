@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img width="600" height="150" alt="logo-copy-RLa1am44OaUalFji" src="https://github.com/user-attachments/assets/c43e10c0-ef8b-4866-a0df-c2676d6cb8cd" />
+<img width="150" height="150" alt="logo-copy-RLa1am44OaUalFji" src="https://github.com/user-attachments/assets/c43e10c0-ef8b-4866-a0df-c2676d6cb8cd" />
   <br>
   CopyArt
   <br>
