@@ -52,7 +52,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 | Item | Link de Acesso |
 |------|---------------|
 | 🖥️ **Sistema WEB (Deploy)** | [Acessar Aplicação Online](https://www.copyart.site/) |
-| 🎬 **Vídeo de Apresentação** | [Assistir no YouTube](https://youtube.com/link-do-video) |
+| 🎬 **Vídeo de Apresentação** | [Assistir no YouTube](https://youtu.be/lEjxJHvLjz8?si=STcFaBT-65oOAZRt) |
 
 > **Nota para correção:** O sistema está online e o vídeo está configurado como Não Listado, conforme os requisitos da disciplina.
 
